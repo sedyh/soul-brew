@@ -5,3 +5,5 @@ Tile-based java game
 
 ### Source
  * src/com/github/sedyh/consoleapproximator
+ 
+#### By sedyh @ 2017
