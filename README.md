@@ -1,6 +1,6 @@
 # Soul Brew [![Twitter](https://img.shields.io/twitter/url/https/github.com/sedyh/soul-brew.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fsedyh%2Fsoul-brew)
 
-[![GitHub license](https://img.shields.io/github/license/sedyh/soul-brew.svg)](https://github.com/sedyh/soul-brew/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/sedyh/soul-brew.svg)](https://github.com/sedyh/soul-brew/blob/master/LICENSE) [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)](https://github.com/sedyh/soul-brew)
 
 Tile-based java game
 
